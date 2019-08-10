@@ -1,4 +1,4 @@
-# client
+# Vue Apex Player Tracker
 
 ## Project setup
 ```
