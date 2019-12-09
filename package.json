@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node server",
-    "server" : "nodemon server",
-    "client" : "npm run serve --prefix client",
-    "dev" : "concurrently \"npm run server\" \"npm run client\""
+    "server": "nodemon server",
+    "client": "npm run serve --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "shubhambattoo",
   "license": "ISC",
@@ -16,7 +16,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.0"  
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
